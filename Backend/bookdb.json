@@ -1,13 +1,3 @@
-
 {
-  "books": [
-    
-  ],
-  "homepage": "https://github.com/subramanian2401/React-app",
-    "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
-  }
+  "books": []
 }
-
-
